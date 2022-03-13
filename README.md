@@ -1,2 +1,6 @@
-# Pokemon-Random-Generator
-When You Open The Readme You Will Find A Random Pokemon Image
+
+<p align="center">
+    <img src=f"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{pokemon-index}.png" width="150" height="150">
+</p>
+<h3 align="center">You have been greeted by - <b>Rolycoly</b></h3>
+<h3 align="center">Have a nice day!</h3>
